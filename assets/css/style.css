@@ -184,7 +184,8 @@ a:hover {
 
 .box img {
     width: 100%;
-    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #fff;
 }
 .skill:hover {
     font-weight: bold;
